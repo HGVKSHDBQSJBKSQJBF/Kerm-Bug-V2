@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "Your name"
+global.ownernomer = "33652952086"
+global.ownername = "BESTBOT KERM"
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
 global.ownernumber = '237656520674'  //creator number
-global.ownername = 'your name here' //creatoe name
+global.ownername = 'BESTBOT!!!' //creatoe name
 global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒' //name of the bot
 
 //sticker details
@@ -21,7 +21,7 @@ global.themeemoji = '🪀'
 global.wm = "Kerm Bug Bot."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
+global.link = 'https://whatsapp.com/channel/0029VahNKtH9cDDVi9fBfx0z'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -51,7 +51,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: '_Done bro!_',
-    prem: '_This feature can be used by premium user only man😑_',
+    prem: '_This feature can be used by premium user only idiot😑_',
     admin: '_This feature can be used by admin only idiot_',
     botAdmin: '_This feature can only be used when the bot is a group admin_',
     owner: '_This feature can be used by owner only idiot😠_',
